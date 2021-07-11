@@ -1,0 +1,17 @@
+The original purpose of word prediction software was to help people with physical disabilities increase their typing speed,[2]
+as well as to help them decrease the number of keystrokes needed in order to complete a word or a sentence.[3] 
+The need to increase speed is noted by the fact that people who use speech-generating devices generally produce speech
+at a rate that is less than 10% as fast as people who use oral speech.[4] But the function is also very useful for anybody who writes text,
+particularly people–such as medical doctors–who frequently use long, hard-to-spell terminology that may be technical or medical in nature.
+
+Autocomplete or word completion works so that when the writer writes the first letter or letters of a word, the program predicts one 
+or more possible words as choices. If the word he intends to write is included in the list he can select it, for example by using the number keys. 
+If the word that the user wants is not predicted, the writer must enter the next letter of the word. At this time, the word choice(s) 
+is altered so that the words provided begin with the same letters as those that have been selected. When the word that the user wants appears 
+it is selected, and the word is inserted into the text. In another form of word prediction, words most likely to follow the just written 
+one are predicted, based on recent word pairs used. Word prediction uses language modeling, 
+where within a set vocabulary the words are most likely to occur are calculated. Along with language modeling, basic word prediction on AAC 
+devices is often coupled with a frecency model, where words the AAC user has used recently and frequently are more likely to be predicted.
+Word prediction software often also allows the user to enter their own words into the word prediction dictionaries either directly, or by 
+"learning" words that have been written.Some search returns related to genitals or other vulgar terms are often omitted from autocompletion 
+technologies, as are morbid terms.   
